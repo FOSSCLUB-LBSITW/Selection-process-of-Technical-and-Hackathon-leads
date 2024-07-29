@@ -25,9 +25,10 @@ p{
    
 
 }
+
 .logo{
     position:relative;
-    font-size: 25px;
+    font-size: 35px;
     color:aliceblue;
     text-decoration: none;
     font-weight: 600;
@@ -36,7 +37,7 @@ p{
 
 .navbar a{
     display: inline-block;
-    font-size:25px;
+    font-size:30px;
     color: aliceblue;
     text-decoration: none;
     font-weight: 500;
