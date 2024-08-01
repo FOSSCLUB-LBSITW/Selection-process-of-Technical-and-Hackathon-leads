@@ -59,7 +59,7 @@ p{
     width:100%;
     justify-content: space-between;
     height: 100vh;
-   background-image: url(./wallpaper.jpg) ;
+   background-image: url(./WhatsApp\ Image\ 2024-08-01\ at\ 8.30.57\ PM.jpeg) ;
    background-size: cover;
    background-position: center;
    display: flex;
@@ -95,4 +95,29 @@ max-width: 600px;
     box-shadow:0 0 20px aqua;
     
 }
+.about{
+    position:relative;
+    width:100%;
+    /* justify-content: space-between; */
+    height: 100vh;
+    background-image: url(./WhatsApp\ Image\ 2024-08-01\ at\ 8.08.01\ PM.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+   
+    padding: 70px 10% 0;
+}
 
+.atext{
+    line-height: 35px;
+    font-size: 20px;
+}
+.atext h2{
+    padding-top: 40px;
+    font-size: 50px;
+    color: aqua;
+}
+.atext h4{
+    font-size: 40px;
+    
+}
